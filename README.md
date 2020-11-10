@@ -1,4 +1,5 @@
 # HTTP-Browser
+This code is in Microsoft Visual Studio 2019 version.
 Basic HTTP browser which is capable of sending HTTP Head, get, post, put, delete requests as per the specification given in RFC-2616.
 The browser must pass test cases after getting connected to a standard HTTP server 
 Name of this browser is SENM
